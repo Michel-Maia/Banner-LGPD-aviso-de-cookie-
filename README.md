@@ -6,7 +6,7 @@
 Desenvolvido para aprendizado. Realizado Banner LGPD (aviso de cookies). 15/10/22
 
 
-[🔗 Clique aqui para acessar] (https://michel-maia.github.io/Banner-LGPD/)
+[🔗 Clique aqui para acessar] (https://michel-maia.github.io/Banner-LGPD-aviso-de-cookie-/)
 
 
 ## 💻 Tecnologias
